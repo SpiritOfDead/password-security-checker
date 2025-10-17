@@ -22,8 +22,9 @@ This project demonstrates practical skills in **cybersecurity, automation, and r
 ## 🚀 Installation & Usage
 ```bash
 # Clone this repository
-git clone https://github.com/tuusuario/password-security-checker.git
+git clone https://github.com/SpiritOfDead/password-security-checker.git
 cd password-security-checker
 
 # Run the script
 python password_security_checker.py
+
